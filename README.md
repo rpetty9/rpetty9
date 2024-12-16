@@ -5,15 +5,6 @@ Star this repo
 Fork on GitHub
 6983
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Rick Petty</h1>
 <h3 align="center">A data engineer and master's of analytics student from Nashville, TN</h3>
 
