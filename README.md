@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rick Petty</h1>
-<h3 align="center">A data engineer and master's of analytics student from Nashville, TN</h3>
+<h3 align="center">A data engineer/data analyst and master's of analytics student from Nashville, TN</h3>
 
 - 🔭 I’m currently working on **Master's of Analytics in Science from Georgia Institute of Technology**
 
